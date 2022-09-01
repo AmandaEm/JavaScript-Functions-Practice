@@ -1,5 +1,5 @@
 //Define an arrow fucntion that returns square of a number
-const square (number) => number * number;
+const square = number => number * number;
 
 
 //Define a function that return the largest of two numbers 
